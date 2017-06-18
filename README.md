@@ -1,4 +1,4 @@
-# Analysis of LENDING CLUB Dataset using R
+# Analysis of LENDING CLUB dataset using R
 
 Environment: R (3.3.1) and R Studio (1.0.136)
 
